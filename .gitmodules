@@ -1,0 +1,3 @@
+[submodule "odin_links_and_images"]
+	path = odin_links_and_images
+	url = https://github.com/aylinkarapanar/odin_project.git

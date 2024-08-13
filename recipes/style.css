@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color: darkgreen;
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    font-weight: bold;
+    color: green;
+    font-size: 25px;
+}
+
+h3 {
+    font-weight: bold;
+    color: lightgreen;
+    font-size: 20px;
+}
+
+a:link {
+    color: white; 
+}
+
+a:visited {
+    color: lightgreen; 
+}
